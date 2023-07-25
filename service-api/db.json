@@ -1,0 +1,132 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "ville": "Agadir",
+      "employees": [
+        {
+          "id": 1,
+          "id_employee": 1,
+          "nom": "Hicham",
+          "salaire": 3000
+        },
+        {
+          "id": 1,
+          "id_employee": 2,
+          "nom": "Hassan",
+          "salaire": 7000
+        },
+        {
+          "id": "1",
+          "id_employee": "5",
+          "nom": "hamid",
+          "salaire": 5000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ville": "Tanger",
+      "employees": [
+        {
+          "id": 2,
+          "id_employee": 1,
+          "nom": "Yassine",
+          "salaire": 3500
+        },
+        {
+          "id": 2,
+          "id_employee": 2,
+          "nom": "Mohammed",
+          "salaire": 10000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ville": "fes",
+      "employees": [
+        {
+          "id": "3",
+          "id_employee": "5",
+          "nom": "fef",
+          "salaire": 1000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "employees": []
+    },
+    {
+      "id": 5,
+      "employees": []
+    },
+    {
+      "id": 10,
+      "ville": "Marrakech ",
+      "employees": [
+        {
+          "id": "10",
+          "id_employee": "55",
+          "nom": "zahra",
+          "salaire": 100000
+        },
+        {
+          "id": "10",
+          "id_employee": "55",
+          "nom": "zahra",
+          "salaire": 100000
+        },
+        {
+          "id": "10",
+          "id_employee": "55",
+          "nom": "zahra",
+          "salaire": 100000
+        },
+        {
+          "id": "10",
+          "id_employee": "55",
+          "nom": "zahra",
+          "salaire": 100000
+        },
+        {
+          "id": "10",
+          "id_employee": "55",
+          "nom": "zahra",
+          "salaire": 100000
+        },
+        {
+          "id": "10",
+          "id_employee": "55",
+          "nom": "zahra",
+          "salaire": 100000
+        },
+        {
+          "id": "10",
+          "id_employee": "111",
+          "nom": "hh",
+          "salaire": 10000
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "ville": "Meknes",
+      "employees": [
+        {
+          "id": "6",
+          "id_employee": "1",
+          "nom": "sara",
+          "salaire": 8000
+        },
+        {
+          "id": "6",
+          "id_employee": "8",
+          "nom": "hh",
+          "salaire": 10000
+        }
+      ]
+    }
+  ]
+}

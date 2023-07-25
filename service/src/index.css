@@ -1,0 +1,46 @@
+
+.badge{
+  background: linear-gradient(139deg,#355bad,#a1b0be,#5e9edd);
+  width: 100%;
+  animation: gradient-animation 1ms ease infinite;
+  border-radius: 20px 20px 120px 120px;
+  /* background-repeat: no-repeat; */
+}
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+*{color: rgb(1, 4, 5);
+  font-size: 25px;
+  text-decoration:none;
+  font-family: Cambria;
+  font-weight: lighter;
+}
+a:hover{color:#576b86;}
+.nav ul {
+  margin: 0.5cm;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 20cm;
+  text-decoration: none;
+  list-style: none;
+ 
+}
+.btn:hover { background:#567a9cd0
+}
+.head{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  }
+  table{
+    column-gap: 40px;
+  }
